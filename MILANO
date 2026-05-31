@@ -1,8 +1,0 @@
-# Telegram Bot
-BOT_TOKEN=8068225104:AAHXdH_SuqUNXbP_rNaANfKytbIxTf-KSgc
-ADMIN_CHAT_ID=7059156652
-# MongoDB
-MONGODB_URI=
-
-# Solana
-SOLANA_RPC=https://api.mainnet-beta.solana.com 
