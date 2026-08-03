@@ -1,5 +1,5 @@
 // ============================================
-// Sol TRADING BOT - Complete Implementation
+//AXIOM TRADING BOT - Complete Implementation
 // Jupiter V6 Integration + Multi-Wallet Support + Commission System
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to Trade Wiz Trading Bot* 🤖
+🚀 *Welcome to AXIOM  Trading Bot* 🤖
 *I'm your Web3 execution engine*.
 AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
